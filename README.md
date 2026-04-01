@@ -24,7 +24,7 @@ I am passionate about solving real-world problems and building impactful solutio
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode" />
 </p> 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
