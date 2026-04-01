@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00AAFF&height=200&section=header&text=Isuru%20Nimesh&fontSize=40&fontColor=ffffff" />
 </p>
-# 👋 Hey there, I'm Isuru
+👋 Hey there, I'm Isuru
 
 💻 IT Student | 🤖 AI Enthusiast | 📊 Data Analyst  | Data Visualization
 
