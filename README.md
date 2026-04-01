@@ -26,10 +26,6 @@ I am passionate about solving real-world problems and building impactful solutio
 </p> 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
 ## 📌 Current Focus
 
 - 📊 Data Analytics Projects  
