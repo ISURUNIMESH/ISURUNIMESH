@@ -49,17 +49,6 @@ I am passionate about solving real-world problems and building impactful solutio
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,100:00FFAA&height=120&section=footer"/>
 </p>
 
-Banner
-Name + Intro
-Typing Animation
-About Me
-Skills
-GitHub Stats
-Streak Stats
-Current Focus
-Projects (optional)
-Social Links
-Footer
 
 ## 🚀 Featured Projects
 
