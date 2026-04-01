@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00AAFF&height=200&section=header&text=Isuru%20Nimesh&fontSize=40&fontColor=ffffff" />
 </p>
@@ -45,9 +45,6 @@ I am passionate about solving real-world problems and building impactful solutio
 - LinkedIn: https://www.linkedin.com/in/isuru-nimesh-704706349/ 
 - Email: inimesh200@gmail.com
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,100:00FFAA&height=120&section=footer"/>
-</p>
 
 
 ## 🚀 Featured Projects
