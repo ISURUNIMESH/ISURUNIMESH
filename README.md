@@ -1,63 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9A7,100:0078FF&text=Isuru%20Nimesh&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9A7,100:0052D4&text=Isuru%20Nimesh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 # Isuru Nimesh
 
-### BSc (Hons) Information Technology Undergraduate
+### Information Technology Undergraduate
 
-### Artificial Intelligence | Data Science | Machine Learning | Software Development
+**Artificial Intelligence • Data Science • Machine Learning • Software Engineering**
 
-I am passionate about building intelligent, data-driven solutions that solve real-world problems. My interests include Artificial Intelligence, Machine Learning, Data Analytics, Software Engineering, and Microservices Architecture.
+I am an Information Technology undergraduate with a strong interest in Artificial Intelligence, Data Science, and software development. I enjoy building scalable applications, analyzing data, and developing intelligent solutions that address real-world challenges.
 
 </div>
 
 ---
 
-## About Me
+## Professional Profile
 
-- Final-year Information Technology undergraduate
-- Interested in Artificial Intelligence and Data Science
-- Learning Machine Learning and Explainable AI
-- Experienced in Web Application Development
-- Passionate about building real-world projects
-- Continuously improving my technical skills
+I am currently pursuing a Bachelor of Science (Honours) degree in Information Technology. My academic and project experience has enabled me to develop a solid foundation in software engineering, machine learning, data analytics, and microservices architecture.
+
+My goal is to become an AI Engineer by combining analytical thinking, software development, and data-driven decision-making to create innovative and impactful solutions.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-
-Python • Java • JavaScript • PHP • SQL
-
-### Web Development
-
-HTML • CSS • React • Node.js • Flask • Spring Boot
-
-### Databases
-
-MySQL • MongoDB
-
-### Tools & Technologies
-
-Docker • Git • GitHub • VS Code • Postman • Jupyter Notebook
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, Java, JavaScript, PHP, SQL |
+| Frontend | HTML, CSS, React |
+| Backend | Spring Boot, Flask, Node.js |
+| Databases | MySQL, MongoDB |
+| Development Tools | Git, GitHub, VS Code, Postman |
+| DevOps | Docker, Docker Compose |
+| Data Science | Pandas, NumPy, Scikit-learn, XGBoost, SHAP |
 
 ---
 
-## Featured Projects
+## Selected Projects
 
 ### RetailSense AI
 
-AI-based sales forecasting and inventory optimization system that analyzes sales patterns and predicts future demand to improve inventory management.
+An AI-based sales forecasting and inventory optimization platform designed to analyze sales trends and improve inventory management through predictive analytics.
 
 **Technologies:** Python, Pandas, Scikit-learn, Plotly, Flask
 
 ---
 
-### BuildMate Microservices Architecture
+### BuildMate Microservices System
 
-A construction management platform developed using a microservices architecture with independent services, asynchronous communication, and API Gateway integration.
+A distributed construction management platform developed using a microservices architecture with service communication, API Gateway integration, and containerized deployment.
 
 **Technologies:** Spring Boot, RabbitMQ, MongoDB, Docker
 
@@ -65,48 +56,34 @@ A construction management platform developed using a microservices architecture 
 
 ### Explainable AI-Based Stress Prediction
 
-An Explainable AI framework designed to detect stress among university students using behavioral and lifestyle data.
+An Explainable AI framework for the early detection of stress among university students using behavioral and lifestyle data.
 
 **Technologies:** Python, XGBoost, SHAP, Pandas
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ISURUNIMESH&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ISURUNIMESH&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISURUNIMESH&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISURUNIMESH&layout=compact&hide_border=true&theme=transparent"/>
 
-</p>
-
----
-
-## Currently Learning
-
-- Machine Learning
-- Explainable AI
-- Microservices
-- Docker
-- Data Visualization
+</div>
 
 ---
 
-## Connect With Me
+## Connect
 
-GitHub: https://github.com/ISURUNIMESH
-
-LinkedIn: https://www.linkedin.com/in/ishan-0512z
-
-Email: i.madusanka.me@gmail.com
+- GitHub: https://github.com/ISURUNIMESH
+- LinkedIn: https://www.linkedin.com/in/ishan-0512z
+- Email: i.madusanka.me@gmail.com
 
 ---
 
 <div align="center">
 
-Continuously learning. Consistently building. Passionately solving.
+**Building intelligent solutions through code, data, and innovation.**
 
 </div>
-
-
