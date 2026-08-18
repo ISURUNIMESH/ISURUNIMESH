@@ -73,8 +73,8 @@ An Explainable AI framework for the early detection of stress among university s
 ## Connect
 
 - GitHub: https://github.com/ISURUNIMESH
-- LinkedIn: https://www.linkedin.com/in/ishan-0512z
-- Email: i.madusanka.me@gmail.com
+- LinkedIn: www.linkedin.com/in/inimesh
+- Email: i.nimesh.me@gmail.com
 
 ---
 
