@@ -62,15 +62,11 @@ An Explainable AI framework for the early detection of stress among university s
 
 ---
 
-## GitHub Analytics
+## Contributions
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ISURUNIMESH&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISURUNIMESH&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISURUNIMESH"/>
+</p>
 
 ---
 
